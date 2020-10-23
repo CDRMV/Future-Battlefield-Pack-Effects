@@ -1,0 +1,17 @@
+name = "(F.B.P.) Future Battlefield Pack: Effects"
+uid = "5t3edt-btz6-9438-h6ui-967gt56fa8"
+version = 1.0
+copyright = "Copyright © 2020, CDRMV (aka CDR Deadalus)"
+description = "'Future Battlefield Pack: Effects' is a Submod of the F.B.P. Modproject. It Improves the Visual of some exiting Weapon Muzzle Effect's, Water Impact's and more."
+author = "CDRMV (aka CDR Deadalus)"
+url = "http://www.moddb.com/mods/fbp-future-battlefield-pack"
+icon = "/mods/Future Battlefield Pack Effects/Icon.png" 
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
+requires = { }
+requiresNames = { }
+conflicts = { }
+before = { }
+after = { }
